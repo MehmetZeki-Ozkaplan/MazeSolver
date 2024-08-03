@@ -18,21 +18,21 @@ This project is a C++ application that uses a Depth-First Search (DFS) algorithm
   Download the Project
   Clone or download the project from GitHub:
 
-  git clone https://github.com/your_username/maze-solver.git
-  cd maze-solver
+      git clone https://github.com/your_username/maze-solver.git
+      cd maze-solver
 
 - Compilation and Execution
     Compile the Project
     Use a C++ compiler to build the project:
 
-    g++ -o maze_solver main.cpp
+      g++ -o maze_solver main.cpp
 
 This command compiles main.cpp and generates an executable named maze_solver.
 
 - Run the Application
   Execute the compiled program:
 
-  ./maze_solver
+      ./maze_solver
 
 The program will read the Map.txt file and attempt to find a path between the start and end points on the map.
 
