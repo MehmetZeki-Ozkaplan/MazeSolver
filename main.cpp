@@ -196,7 +196,7 @@ bool cozumBul(int baslangicX, int baslangicY, int cikisX, int cikisY) {
 // Main function
 int main() {
     int baslangicX, baslangicY, cikisX, cikisY;
-    haritaOku("Harita.txt", baslangicX, baslangicY, cikisX, cikisY); // Read the map and determine the entry and exit points
+    haritaOku("Map.txt", baslangicX, baslangicY, cikisX, cikisY); // Read the map and determine the entry and exit points
 
     // Find the solution and print the result to the screen
     if (cozumBul(baslangicX, baslangicY, cikisX, cikisY)) {
