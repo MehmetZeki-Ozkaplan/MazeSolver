@@ -1,0 +1,16 @@
+# Makefile
+
+# The 'all' target is the default target that builds and runs the program
+all: compile run
+
+# 'compile' target compiles the source code into an executable
+compile:
+	g++ main.cpp -o main.exe
+
+# 'run' target runs the compiled executable
+run:
+	.\main.exe
+
+# 'clean' target removes the compiled executable
+clean:
+	del main.exe
