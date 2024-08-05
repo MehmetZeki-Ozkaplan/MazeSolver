@@ -18,7 +18,7 @@ This project is a C++ application that uses a Depth-First Search (DFS) algorithm
   Download the Project
   Clone or download the project from GitHub:
 
-      git clone https://github.com/your_username/maze-solver.git
+      git clone https://github.com/MehmetZekii/MazeSolver.git
       cd maze-solver
 
 - Compilation and Execution
