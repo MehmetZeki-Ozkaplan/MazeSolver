@@ -48,7 +48,7 @@ Maze Solver is a console-based application designed to solve mazes by finding a 
   Download the Project
   Clone or download the project from GitHub:
 
-      git clone https://github.com/MehmetZekii/MazeSolver.git
+      git clone https://github.com/MehmetZeki-Ozkaplan/MazeSolver.git
       
       cd maze-solver
 
